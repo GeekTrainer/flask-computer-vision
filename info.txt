@@ -1,0 +1,15 @@
+Application name: intern-86753
+Application settings (stored as environmental variables on server):
+  COGSVCS_CLIENTURL: https://westus2.api.cognitive.microsoft.com/
+  COGSVCS_KEY: 091c301bbe7d44b6847fefe0e90b493a
+Deployment info:
+  Git url: https://intern-86753.scm.azurewebsites.net/intern-86753.git
+  User name: $intern-86753
+  User password: tfmeX0cYD2nlpyGudJit218gsuZCyab6hTHS1avJNjYoGXRlwhBNsoa25kNK
+Deployment steps:
+  1- Create git repository: git init
+  2- Add all code: git add .
+  3- Commit code: git commit -m 'Initial commit'
+  4- Add remote to git: git remote add azure https://intern-86753.scm.azurewebsites.net/intern-86753.git
+  5- Deploy to Azure: git push -u azure master
+Website url: https://intern-86753.azurewebsites.net
